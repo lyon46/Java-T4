@@ -3,7 +3,6 @@ package exs_curso.condicionais;
 import javax.swing.JOptionPane;
 
 public class Ex2 {
-
 	public static void main(String[] args) {
 		
 		final int ANO_ATUAL = 2023;
